@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on basic projects for learning;
 - 📫 How to reach me: N/A;
 - 😄 Pronouns: He/Him;
-- ⚡ Fun fact: I am passionate about music and learning more about the world!;
+- ⚡ Fun fact: I am passionate about music and learning more about tech;
 
 <!---
 Vimtoooo/Vimtoooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
