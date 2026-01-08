@@ -50,7 +50,7 @@
  
  👨🏼‍💻 Maior conhecimento em Backend com Python e Java, mas também estou estudando Frontend com HTML e banco de dados com SQL.
  
- 🔮 Em procura para se tornar um Engenheiro de Software e possivelmente um Analista de Dados.
+ 🔮 Em procura para se tornar um Engenheiro de Software e um Analista de Dados.
  
  <h2>Habilidades e Linguagens</h2>
  
