@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vimtoooo;
 - 👀 I’m interested in Computer Science!;
-- 🌱 I’m currently learning Python and Java;
+- 🌱 I’m currently learning Python, Java and HTML;
 - 💞️ I’m looking to collaborate on basic projects for learning;
 - 📫 How to reach me: N/A;
 - 😄 Pronouns: He/Him;
