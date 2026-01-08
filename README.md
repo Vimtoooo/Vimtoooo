@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Vimtoooo;
-- 👀 I’m interested in Computer Science!;
-- 🌱 I’m currently learning Python, Java and HTML;
-- 💞️ I’m looking to collaborate on basic projects for learning;
-- 📫 How to reach me: N/A;
-- 😄 Pronouns: He/Him;
-- ⚡ Fun fact: I am passionate about music and learning more about tech;
+## Welcome to my Portfolio!
 
-<!---
-Vimtoooo/Vimtoooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+🙋🏼‍♂️ My name is Vito Leonelli.
+
+📍 Living in São Paulo/Brazil
+
+🎓 I am a Computer Science Freshman.
+
+👨🏼‍💻 More prior knowledge in Backend with Python and Java, but also studying Frontend with HTML.
+
+🔮 Looking towards becoming a Software Engineer and a Data Analyst.
+
+## Languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo" >
+<img width="12">
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original.svg" height="40" alt="Java Logo">
+<img width="12">
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original.svg" height="40" alt="Java Logo">
