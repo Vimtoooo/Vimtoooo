@@ -2,7 +2,7 @@
     <a href="#portuguese-section" title="Interact with this button to visualize my readme in Portuguese">Português</a>
 </div>
 
-<h1>Welcome to my Profile!</h1>
+<h1>Welcome to my Profile! 👋🏼</h1>
 
 
 🙋🏼‍♂️ My name is Vito Leonelli.
@@ -39,7 +39,7 @@
 
  <a name="versão em português"></a>
 
- <h1>Welcome to my Profile!</h1>
+ <h1>Seja bem-vindo ao Meu Perfil! 👋🏼</h1>
 
 
  🙋🏼‍♂️ Olá, meu nome é Vito Leonelli.
