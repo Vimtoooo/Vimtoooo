@@ -3,7 +3,7 @@
 
 🙋🏼‍♂️ My name is Vito Leonelli.
 
-📍 Living in São Paulo/Brazil
+📍 Living in São Paulo/Brazil.
 
 🎓 I am a Computer Science Freshman.
 
@@ -24,3 +24,7 @@
 </div>
 
 <h3>Socials</h3>
+
+<div>
+    <a href="https://github.com/Vimtoooo"><img align="center" src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white" style="margin-left: 25px;"></a> <a href="https://www.linkedin.com/in/vito-leonelli-3b72a2192/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-left: 20px;"></a>
+</div>
