@@ -44,7 +44,7 @@
 
  🙋🏼‍♂️ Olá, meu nome é Vito Leonelli.
  
- 📍 Moro em São Paulo/Brazil.
+ 📍 Moro em São Paulo/Brasil.
  
  🎓 Cursando Ciências da Computação.
  
