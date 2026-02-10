@@ -30,7 +30,7 @@
 <h3>Socials</h3>
 
 <div>
-    <a href="https://github.com/Vimtoooo"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="margin-left: 25px;"></a> <a href="https://www.linkedin.com/in/vito-leonelli-3b72a2192/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-left: 20px;"></a>
+    <a href="https://github.com/Vimtoooo"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="margin-left: 25px;"></a> <a href="https://www.linkedin.com/in/vito-leonelli/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-left: 20px;"></a>
 </div>
 
 ---
@@ -67,5 +67,5 @@
  <h3>Redes Sociais</h3>
  
  <div>
-     <a href="https://github.com/Vimtoooo"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="margin-left: 25px;"></a> <a href="https://www.linkedin.com/in/vito-leonelli-3b72a2192/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-left: 20px;"></a>
+     <a href="https://github.com/Vimtoooo"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="margin-left: 25px;"></a> <a href="https://www.linkedin.com/in/vito-leonelli/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-left: 20px;"></a>
  </div>
