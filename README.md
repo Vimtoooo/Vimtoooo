@@ -24,7 +24,7 @@
 <h2>Tools and Frameworks</h2>
 
 <div>
-    <img src="https://github.com/loryanstrant/MicrosoftCloudLogos/blob/main/Microsoft%20365/Excel/Excel%201024x1024%20(2025%20unofficial).png?raw=true" height="60" alt="Excel Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" height="60" alt="VSCode Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" height="60" alt="Git Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="Jupyter Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/pandas/pandas-original.svg" height="60" alt="Pandas Logo">
+    <img src="https://github.com/loryanstrant/MicrosoftCloudLogos/blob/main/Microsoft_365/Excel/Excel_512.png?raw=true" height="60" alt="Excel Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" height="60" alt="VSCode Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" height="60" alt="Git Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="Jupyter Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/pandas/pandas-original.svg" height="60" alt="Pandas Logo">
 </div>
 
 <h3>Socials</h3>
@@ -61,7 +61,7 @@
  <h2>Ferramentas e Frameworks</h2>
  
  <div>
-     <img src="https://github.com/loryanstrant/MicrosoftCloudLogos/blob/main/Microsoft%20365/Excel/Excel%201024x1024%20(2025%20unofficial).png?raw=true" height="60" alt="Excel Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" height="60" alt="VSCode Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" height="60" alt="Git Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="Jupyter Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/pandas/pandas-original.svg" height="60" alt="Pandas Logo">
+     <img src="https://github.com/loryanstrant/MicrosoftCloudLogos/blob/main/Microsoft_365/Excel/Excel_512.png?raw=true" height="60" alt="Excel Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" height="60" alt="VSCode Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" height="60" alt="Git Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="Jupyter Logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/pandas/pandas-original.svg" height="60" alt="Pandas Logo">
  </div>
  
  <h3>Redes Sociais</h3>
