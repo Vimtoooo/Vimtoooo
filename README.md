@@ -11,9 +11,9 @@
 
 🎓 I am a Computer Science Freshman.
 
-👨🏼‍💻 More prior knowledge in Backend with Python and Java, but also studying Frontend with HTML and Databases with SQL.
+👨🏼‍💻 More prior knowledge in Backend with Python, Java and JavaScript/TypeScript, but also studying Frontend with HTML and Databases with SQL.
 
-🔮 Looking towards becoming a Software Engineer and a Data Analyst.
+🔮 Looking towards becoming a Software Engineer and an AI Automation Engineer.
 
 <h2>Languages and Skills</h2>
 
@@ -35,7 +35,7 @@
 
 ---
 <details id="portuguese-section">
- <summary>Ver versão em português (clique aqui para expandir)</summary>
+ <summary style="cursor: pointer;">Ver versão em português (clique aqui para expandir)</summary>
 
  <a name="versão em português"></a>
 
@@ -48,9 +48,9 @@
  
  🎓 Cursando Ciências da Computação.
  
- 👨🏼‍💻 Maior conhecimento em Backend com Python e Java, mas também estou estudando Frontend com HTML e banco de dados com SQL.
+ 👨🏼‍💻 Maior conhecimento em Backend com Python, Java and JavaScript/TypeScript, mas também estou estudando Frontend com HTML e banco de dados com SQL.
  
- 🔮 Em procura para se tornar um Engenheiro de Software e um Analista de Dados.
+ 🔮 Em procura para se tornar um Engenheiro de Software e um Engenheiro de Automações com IA.
  
  <h2>Habilidades e Linguagens</h2>
  
